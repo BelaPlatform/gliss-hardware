@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Gliss")(type "KiCad")(uri "/Users/adanlbenito/Documents/bela_stuff/gliss/gliss_hardware/Gliss.kicad_sym")(options "")(descr ""))
+  (lib (name "ws2812-2020")(type "KiCad")(uri "/Users/adanlbenito/Documents/bela_stuff/LED-testboard/LED-Lib/symbols/ws2812-2020.kicad_sym")(options "")(descr ""))
+)
